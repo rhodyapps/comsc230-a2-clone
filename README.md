@@ -1,5 +1,5 @@
 # Comsc230-Assignment1-HTML
-# Tom N Cloned repo
+# Tom N Cloned repository
 
 First assignment basic html and css.
 
